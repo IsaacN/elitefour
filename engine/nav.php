@@ -3,9 +3,9 @@
 		    <nav>
 		        <div class="nav-bar">
 		            <div class="module left">
-		                <a href="index.html">
-		                    <img class="logo logo-light" alt="Foundry" src="img/logo-light.png">
-		                    <img class="logo logo-dark" alt="Foundry" src="img/e4f-logo-compressed-long.png">
+		                <a href="/">
+		                    <img class="logo logo-light" alt="Elite Four" src="img/logo-light.png">
+		                    <img class="logo logo-dark" alt="Elite Four" src="img/e4f-logo-compressed-long.png">
 		                </a>
 		            </div>
 		            <div class="module widget-handle mobile-toggle right visible-sm visible-xs">

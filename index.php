@@ -12,7 +12,7 @@
 					<div class="row">
 						<div class="col-sm-6">
 							<h1 class="mb0 uppercase bold italic">Elite Four Fitness <br></h1>
-							<h5 class="uppercase mb32">Personal Training &amp; Dietary Advice</h5>
+							<h5 class="uppercase mb32">Personal Training &amp; Fitness Advice</h5>
 							<p class="lead mb0">
 								“Everyone deserves good health and happiness.<br class="hidden-sm">My goal is to help people achieve both.”
 							</p>
