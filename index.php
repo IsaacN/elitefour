@@ -6,7 +6,7 @@
 		<div class="main-container">
 			<section class="image-bg overlay pt240 pb240 pt-xs-180 pb-xs-180">
 				<div class="background-image-holder">
-					<img alt="image" class="background-image" src="img/fitness3.jpg">
+					<img alt="image" class="background-image" src="img/hayden-hero.jpg">
 				</div>
 				<div class="container">
 					<div class="row">
