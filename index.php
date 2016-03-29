@@ -33,16 +33,9 @@
 						</div>
 						<div class="col-md-5 col-sm-7">
 							<p>
-								Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+								Our philosophy at Elite Four Fitness is to introduce you to a new way of training and a different way of thinking. Head trainer Hayden Walker has been in and around the fitness industry for years, establishing the E4F vision in 2012. After completing his Bachelor's Degree at QUT, his philosophy and values have remained consistent since: educate and support people to maintain a happy and healthy lifestyle&mdash;for life.
 							</p>
 							
-							<p>
-								Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
-							</p>
-							
-							<p>
-								Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur
-							</p>
 							<img alt="signature" src="img/fitness1.png" class="image-small">
 						</div>
 					</div>
@@ -58,7 +51,7 @@
 		                            <i class="ti-layers icon-sm"></i>
 		                            <h5 class="uppercase">Personal Training</h5>
 		                        </div>
-		                        <p>Lorem ipsum, dolor sit amet! Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+		                        <p>Personal Training is a great way to get the results you have been looking for, in either a one-on-one or small group training environment. Each session is specifically tailored to you, and includes a big focus on correcting form, posture and mobility while also working towards your set specific goals.</p>
 		                    </div>
 		                    
 		                </div>
@@ -69,7 +62,7 @@
 		                            <h5 class="uppercase">Group Training</h5>
 		                        </div>
 		                        <p>
-		                            Lorem ipsum, dolor sit amet! Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+		                            Run as part of the Next Level Challenge group training is a great way for you to get a great mix of multiple training styles including high intensity interval training, strength &amp; conditioning and boxing.
 		                        </p>
 		                    </div>
 		                    
@@ -86,7 +79,7 @@
 		        <div class="container">
 		            <div class="row">
 		                <div class="col-sm-12 text-center">
-		                    <h2 class="mb16">Services as far as the eye can see!</h2>
+		                    <h2 class="mb16">Elite Four's Specialties</h2>
 		                    <p class="lead mb64">
 		                        Check out all the sweet-ass stuff Hayden does here.</p>
 		                </div>
@@ -100,14 +93,16 @@
 		                            <h5 class="uppercase">6 Week NXT LVL Challenge</h5>
 		                        </div>
 		                        <p>
-		                            Stuff about the challenge in here!</p>
+		                        <!-- Lorem -->
+		                         </p>
 		                    </div><div class="feature feature-1 boxed">
 		                        <div class="text-center">
 		                            <i class="ti-package icon"></i>
 		                            <h5 class="uppercase">Posture Correction</h5>
 		                        </div>
 		                        <p>
-		                            Stuff about posture correction here!</p>
+		                        <!-- Lorem -->
+		                         </p>
 		                    </div>
 		                    
 		                </div>
@@ -118,13 +113,15 @@
 		                            <h5 class="uppercase">Weight Loss</h5>
 		                        </div>
 		                        <p>
-		                            Stuff about weight loss here!</p>
+		                           <!--  Stuff about weight loss here! --></p>
 		                    </div><div class="feature feature-1 boxed">
 		                        <div class="text-center">
 		                            <i class="ti-infinite icon"></i>
 		                            <h5 class="uppercase">Cardio Fitness</h5>
 		                        </div>
-		                        <p>Stuff about cardio fitness here!</p>
+		                        <p>
+		                        <!-- Stuff about cardio fitness here! -->
+		                        </p>
 		                    </div>
 		                    
 		                </div>
@@ -135,7 +132,8 @@
 		                            <h5 class="uppercase">Muscle Tone</h5>
 		                        </div>
 		                        <p>
-		                            Stuff about muscle tone here!</p>
+		                            <!-- Stuff about muscle tone here! -->
+		                            </p>
 		                    </div>
 		                    
 		                </div><div class="col-sm-4">
@@ -145,7 +143,8 @@
 		                            <h5 class="uppercase">Core Fitness</h5>
 		                        </div>
 		                        <p>
-		                            Stuff about core strength here!</p>
+		                            <!-- Stuff about core strength here! -->
+		                            </p>
 		                    </div>
 		                    
 		                </div>
@@ -153,13 +152,14 @@
 		            
 		        </div>
 		        
-		    </section><section>
+		    </section>
+		    <section id='contact'>
 		        <div class="container">
 		            <div class="row">
 		                <div class="col-sm-6 col-md-5">
 		                    <h4 class="uppercase">Get In Touch</h4>
 		                    <p>
-		                        At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident,
+		                        “If you feel like finding out a bit more about what we do at Elite Four Fitness fill in your name, email address and a brief message about how we could help you and we will get back to you ASAP to book in a free consultation.
 		                    </p>
 		                    <hr>
 		                    <p>Hayden Walker<br>Snap Fitness Victoria Point<br>Town Centre Shopping Centre, Victoria Point<br>Queensland 4165 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br></p>
