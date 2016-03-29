@@ -35,6 +35,9 @@
 							<p>
 								Our philosophy at Elite Four Fitness is to introduce you to a new way of training and a different way of thinking. Head trainer Hayden Walker has been in and around the fitness industry for years, establishing the E4F vision in 2012. After completing his Bachelor's Degree at QUT, his philosophy and values have remained consistent since: educate and support people to maintain a happy and healthy lifestyle&mdash;for life.
 							</p>
+							<p>
+							Each program utilized by the trainers at Elite Four Fitness is backed by hours of research into the best way to achieve the results you are looking for, through our approach to both nutrition and exercise. Since beginning the journey to bring the E4F vision into reality, we have had over 100 people come through our doors and achieve amazing results using our holistic approach to health and fitness.
+							</p>
 							
 							<img alt="signature" src="img/fitness1.png" class="image-small">
 						</div>
@@ -167,7 +170,7 @@
 		                    <hr>
 		                    <p>
 		                        <strong>E:</strong>&nbsp;hayden@elitefourfitness.com&nbsp;<br>
-		                        <strong>P:</strong> 0412 345 678 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br>
+		                        <strong>P:</strong> 0422 397 266 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br>
 		                    </p>
 		                </div>
 		                <div class="col-sm-6 col-md-5 col-md-offset-1">
