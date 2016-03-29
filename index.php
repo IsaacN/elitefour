@@ -62,7 +62,7 @@
 		                            <h5 class="uppercase">Group Training</h5>
 		                        </div>
 		                        <p>
-		                            Run as part of the Next Level Challenge group training is a great way for you to get a great mix of multiple training styles including high intensity interval training, strength &amp; conditioning and boxing.
+		                            Run as part of the Next Level Challenge, group training is a great way for you to get a great mix of multiple training styles including: high intensity interval training; strength &amp; conditioning; and boxing.
 		                        </p>
 		                    </div>
 		                    
@@ -81,15 +81,15 @@
 		                <div class="col-sm-12 text-center">
 		                    <h2 class="mb16">Elite Four's Specialties</h2>
 		                    <p class="lead mb64">
-		                        Check out all the sweet-ass stuff Hayden does here.</p>
+		                        We cater to all health and fitness goals</p>
 		                </div>
 		            </div>
-		            
+		            x
 		            <div class="row">
 		                <div class="col-sm-4">
 		                    <div class="feature feature-1 boxed">
 		                        <div class="text-center">
-		                            <i class="ti-package icon"></i>
+		                            <img class="gridIcons" src='img/icons/arrows.png'>
 		                            <h5 class="uppercase">6 Week NXT LVL Challenge</h5>
 		                        </div>
 		                        <p>
@@ -97,7 +97,7 @@
 		                         </p>
 		                    </div><div class="feature feature-1 boxed">
 		                        <div class="text-center">
-		                            <i class="ti-package icon"></i>
+		                            <img class="gridIcons tooLarge" src='img/icons/spine.png'>
 		                            <h5 class="uppercase">Posture Correction</h5>
 		                        </div>
 		                        <p>
@@ -109,14 +109,14 @@
 		                <div class="col-sm-4">
 		                    <div class="feature feature-1 boxed">
 		                        <div class="text-center">
-		                            <i class="ti-infinite icon"></i>
+		                            <img class="gridIcons tooLarge" src='img/icons/scale.png'>
 		                            <h5 class="uppercase">Weight Loss</h5>
 		                        </div>
 		                        <p>
 		                           <!--  Stuff about weight loss here! --></p>
 		                    </div><div class="feature feature-1 boxed">
 		                        <div class="text-center">
-		                            <i class="ti-infinite icon"></i>
+		                            <img class="gridIcons" id='cardioImg' src='img/icons/runner.png'>
 		                            <h5 class="uppercase">Cardio Fitness</h5>
 		                        </div>
 		                        <p>
@@ -128,7 +128,7 @@
 		                <div class="col-sm-4">
 		                    <div class="feature feature-1 boxed">
 		                        <div class="text-center">
-		                            <i class="ti-heart icon"></i>
+		                            <img class="gridIcons tooLarge" id='muscleImg' src='img/icons/muscle-tone.png'>
 		                            <h5 class="uppercase">Muscle Tone</h5>
 		                        </div>
 		                        <p>
@@ -139,7 +139,7 @@
 		                </div><div class="col-sm-4">
 		                    <div class="feature feature-1 boxed">
 		                        <div class="text-center">
-		                            <i class="ti-heart icon"></i>
+		                            <img class="gridIcons" src='img/icons/balance.png'>
 		                            <h5 class="uppercase">Core Fitness</h5>
 		                        </div>
 		                        <p>
