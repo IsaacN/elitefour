@@ -13,7 +13,7 @@
 		            
 		            <div class="row">
 		                <div class="col-md-4 col-sm-6">
-		                    <div class="pricing-table pt-2 text-center">
+		                    <div class="pricing-table boxed pt-2 text-center">
 		                        <h5 class="uppercase">1 Personal Training Session</h5>
 		                        <span class="price">$40</span>
 		                        <p class="lead">Per Week</p>
@@ -59,11 +59,11 @@
 		                    
 		                </div>
 		                <div class="col-md-4 col-sm-6">
-		                    <div class="pricing-table pt-2 emphasis text-center">
+		                    <div class="pricing-table pt-2 boxed text-center">
 		                        <h5 class="uppercase">3 Personal Training Sessions</h5>
 		                        <span class="price">$90</span>
 		                        <p class="lead">Per Week</p>
-		                        <a class="btn btn-white btn-lg" href="#contact">Get Started</a>
+		                        <a class="btn btn-filled btn-lg" href="#contact">Get Started</a>
 		                        <ul>
 		                            <li>
 		                                <strong>Unlimited</strong> Support
@@ -88,12 +88,12 @@
 		    </section><section id='secondBookRow'>
 		        <div class="container">
 		            <div class="row">
-		                <div class="col-md-4 col-sm-6 col-md-offset-4 col-sm-offset-3" >
-		                    <div class="pricing-table pt-2 emphasis text-center">
+		                <div class="col-md-4 col-sm-6 col-md-offset-2" >
+		                    <div class="pricing-table pt-2 boxed text-center">
 		                        <h5 class="uppercase">Next Level Challenge</h5>
 		                        <span class="price">$35</span>
 		                        <p class="lead">Per Week</p>
-		                        <a class="btn btn-white btn-lg" href="#contact">Get Started</a>
+		                        <a class="btn btn-filled btn-lg" href="#contact">Get Started</a>
 		                        <ul>
 		                            <li>
 		                                <strong>Five Sessions</strong> per week
@@ -116,6 +116,38 @@
 		                            <li>
 		                                Professional After <strong>Photos</strong>
 		                            </li>
+		                        </ul>
+		                    </div>
+		                </div>
+		                <div class="col-md-4 col-sm-6 " >
+		                    <div class="pricing-table pt-2 emphasis text-center">
+		                        <h5 class="uppercase">Challenge + PT Session</h5>
+		                        <span class="price">$60</span>
+		                        <p class="lead">Per Week</p>
+		                        <a class="btn btn-white btn-lg" href="#contact">Get Started</a>
+		                        <ul>
+		                            <li>
+		                                <strong>All Benefits</strong> of Personal Training
+		                            </li>
+		                            <li>
+		                                <strong>All Benefits</strong> of Challenge
+		                            </li>
+		                            <li>
+		                                <strong>Amazing Value</strong>
+		                            </li>
+		                            <li>
+		                                &nbsp;
+		                            </li>
+		                            <li>
+		                                &nbsp;
+		                            </li>
+		                            <li>
+		                                &nbsp;
+		                            </li>
+		                            <li>
+		                                &nbsp;
+		                            </li>
+		                 
 		                        </ul>
 		                    </div>
 		                </div>
