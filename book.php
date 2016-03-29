@@ -1,6 +1,6 @@
 <? include('engine/head.php'); include('engine/nav.php'); ?>
 		<div class="main-container">
-		<section>
+		<section id='firstBookRow'>
 		        <div class="container">
 		            <div class="row">
 		                <div class="col-sm-12 text-center">
@@ -85,7 +85,7 @@
 		            
 		        </div>
 		        
-		    </section><section>
+		    </section><section id='secondBookRow'>
 		        <div class="container">
 		            
 		            

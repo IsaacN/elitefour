@@ -1,1 +1,6 @@
-/****** PLACE YOUR CUSTOM STYLES HERE ******/
+#secondBookRow{
+	padding-top: 0px;
+}
+#firstBookRow{
+	padding-bottom: 48px;
+}
