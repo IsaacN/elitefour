@@ -48,7 +48,8 @@
 		                <div class="col-sm-6">
 		                    <div class="feature feature-2 filled text-center">
 		                        <div class="text-center">
-		                            <i class="ti-layers icon-sm"></i>
+		                            <i><img class="servicesIcon" src='img/icons/individual.png'></i>
+
 		                            <h5 class="uppercase">Personal Training</h5>
 		                        </div>
 		                        <p>Personal Training is a great way to get the results you have been looking for, in either a one-on-one or small group training environment. Each session is specifically tailored to you, and includes a big focus on correcting form, posture and mobility while also working towards your set specific goals.</p>
@@ -58,7 +59,7 @@
 		                <div class="col-sm-6">
 		                    <div class="feature feature-2 filled text-center">
 		                        <div class="text-center">
-		                            <i class="ti-gallery icon-sm"></i>
+		                            <i><img class="servicesIcon" src='img/icons/group.png'></i>
 		                            <h5 class="uppercase">Group Training</h5>
 		                        </div>
 		                        <p>
@@ -159,7 +160,7 @@
 		                <div class="col-sm-6 col-md-5">
 		                    <h4 class="uppercase">Get In Touch</h4>
 		                    <p>
-		                        “If you feel like finding out a bit more about what we do at Elite Four Fitness fill in your name, email address and a brief message about how we could help you and we will get back to you ASAP to book in a free consultation.
+		                        If you feel like finding out a bit more about what we do at Elite Four Fitness fill in your name, email address and a brief message about how we could help you and we will get back to you ASAP to book in a free consultation.
 		                    </p>
 		                    <hr>
 		                    <p>Hayden Walker<br>Snap Fitness Victoria Point<br>Town Centre Shopping Centre, Victoria Point<br>Queensland 4165 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br></p>
@@ -172,6 +173,7 @@
 		                <div class="col-sm-6 col-md-5 col-md-offset-1">
 		                    <form class="form-email" data-success="Thanks for your submission, we will be in touch shortly." data-error="Please fill all fields correctly.">
 		                        <input type="text" class="validate-required" name="name" placeholder="Your Name">
+		                        <input type="text" class="validate-required" name="phone" placeholder="Phone Number">
 		                        <input type="text" class="validate-required validate-email" name="email" placeholder="Email Address">
 		                        <textarea class="validate-required" name="message" rows="4" placeholder="Message"></textarea>
 		                        <button type="submit">Send Message</button>
