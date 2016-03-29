@@ -20,7 +20,7 @@ $sendingAccountUsername     = 'hayden@elitefourfitness.com';
 $sendingAccountPassword     = 'walker$123';
 
 // Recipient (To:) Details  - Change this to the email details of who will receive all the emails from the website.
-$recipientEmail             = 'isaac@buckhamduffy.com'; // REQUIRED value.
+$recipientEmail             = 'hayden@elitefourfitness.com'; // REQUIRED value.
 $recipientName              = 'Hayden Walker';             // REQUIRED value.
 
 // Email details            - Change these to suit your website needs
