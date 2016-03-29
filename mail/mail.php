@@ -17,7 +17,7 @@ $outgoingServerSecurity     = 'ssl';                 // Options: 'ssl' , 'tls' ,
 // Sending Account Settings - replace these details with an email account held on the SMTP server entered above.
 // These 2 settings are only required if you choose 'smtp' for emailMethod above.
 $sendingAccountUsername     = 'hayden@elitefourfitness.com';
-$sendingAccountPassword     = 'Walker$123';
+$sendingAccountPassword     = 'walker$123';
 
 // Recipient (To:) Details  - Change this to the email details of who will receive all the emails from the website.
 $recipientEmail             = 'isaac@buckhamduffy.com'; // REQUIRED value.
