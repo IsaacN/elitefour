@@ -1,1 +1,26 @@
-/****** PLACE YOUR CUSTOM STYLES HERE ******/
+#secondBookRow{
+	padding-top: 0px;
+}
+#firstBookRow{
+	padding-bottom: 48px;
+}
+
+.gridIcons{
+	height: 64px;
+	margin-bottom: 8px;
+}
+
+.gridIcons.tooLarge{
+	height: 52px; 
+	margin-bottom: 20px;
+}
+
+#muscleImg, #cardioImg{
+	height: 58px;
+	margin-bottom: 14px;
+}
+
+.servicesIcon{
+	max-width: 48px;
+	margin-top: -5px;
+}
