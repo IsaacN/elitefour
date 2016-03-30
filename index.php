@@ -144,7 +144,7 @@
 		                    <div class="feature feature-1 boxed">
 		                        <div class="text-center">
 		                            <img class="gridIcons" src='img/icons/balance.png'>
-		                            <h5 class="uppercase">Core Fitness</h5>
+		                            <h5 class="uppercase">Rehabilitation</h5>
 		                        </div>
 		                        <p>
 		                            <!-- Stuff about core strength here! -->
