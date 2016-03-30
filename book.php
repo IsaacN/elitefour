@@ -169,7 +169,7 @@
 		                        If you feel like finding out a bit more about what we do at Elite Four Fitness fill in your name, email address and a brief message about how we could help you and we will get back to you ASAP to book in a free consultation.
 		                    </p>
 		                    <hr>
-		                    <p>Hayden Walker<br>Snap Fitness Victoria Point<br>Town Centre Shopping Centre, Victoria Point<br>Queensland 4165 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br></p>
+		                    <p>Hayden Walker <br style='display: inline-block;'>Snap Fitness Victoria Point <br style='display: inline-block;'>Town Centre Shopping Centre, Victoria Point <br style='display: inline-block;'>Queensland 4165 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br></p>
 		                    <hr>
 		                    <p>
 		                        <strong>E:</strong>&nbsp;hayden@elitefourfitness.com&nbsp;<br>

@@ -14,7 +14,7 @@
 							<h1 class="mb0 uppercase bold italic">Elite Four Fitness <br></h1>
 							<h5 class="uppercase mb32">Personal Training &amp; Fitness Advice</h5>
 							<p class="lead mb0">
-								“Everyone deserves good health and happiness.<br class="hidden-sm">My goal is to help people achieve both.”
+								“Everyone deserves good health and happiness. <br class="hidden-sm">My goal is to help people achieve both.”
 							</p>
 						</div>
 					</div>
@@ -27,7 +27,7 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-md-4 col-md-offset-1 text-right text-left-xs col-sm-5">
-							<h1 class="uppercase mb24 bold italic">Fitness<br>For Life</h1>
+							<h1 class="uppercase mb24 bold italic">Fitness <br>For Life</h1>
 							<h5 class="uppercase italic fade-1-4">“My passion is motivating<br> people to get results”</h5>
 							<hr class="visible-xs">
 						</div>
@@ -166,7 +166,7 @@
 		                        If you feel like finding out a bit more about what we do at Elite Four Fitness fill in your name, email address and a brief message about how we could help you and we will get back to you ASAP to book in a free consultation.
 		                    </p>
 		                    <hr>
-		                    <p>Hayden Walker<br>Snap Fitness Victoria Point<br>Town Centre Shopping Centre, Victoria Point<br>Queensland 4165 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br></p>
+		                    <p>Hayden Walker <br style='display: inline-block;'>Snap Fitness Victoria Point <br style='display: inline-block;'>Town Centre Shopping Centre, Victoria Point <br style='display: inline-block;'>Queensland 4165 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br></p>
 		                    <hr>
 		                    <p>
 		                        <strong>E:</strong>&nbsp;hayden@elitefourfitness.com&nbsp;<br>
