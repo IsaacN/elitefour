@@ -1,4 +1,8 @@
-<? include('engine/head.php'); include('engine/nav.php'); ?>
+<? 
+	$pageTitle = 'Book Now';
+	include('engine/head.php');
+	include('engine/nav.php');
+?>
 		<div class="main-container">
 		<section id='firstBookRow'>
 		        <div class="container">
