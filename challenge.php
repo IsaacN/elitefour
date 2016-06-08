@@ -188,14 +188,8 @@
 		                    <p class="lead mb40">
 		                        Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
 		                    </p>
-		                    <div class="overflow-hidden mb32 mb-xs-24">
-		                        <i class="ti-package icon icon-sm pull-left"></i>
-		                        <h6 class="uppercase mb0 inline-block p32"></h6>
-		                    </div>
-		                    <div class="overflow-hidden mb32 mb-xs-24">
-		                        <i class="ti-medall-alt icon icon-sm pull-left"></i>
-		                        <h6 class="uppercase mb0 inline-block p32">Foundry Club Access</h6>
-		                    </div>
+		                   
+		                    
 		                </div>
 		                <div class="col-md-4 col-sm-6">
 		                    <div class="pricing-table pt-1 text-center emphasis">
