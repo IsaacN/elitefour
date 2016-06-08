@@ -71,7 +71,7 @@
 		            <div class="row">
 		                <div class="col-md-7 col-sm-8">
 		                    <i class="ti-quote-left icon icon-sm mb16"></i>
-		                    <h3 class="mb32">Foundry provided us the tools, capital and expertise we needed to launch Lactick to reach a global audience.</h3>
+		                    <h3 class="mb32">The Next Level Challenge is all about lorem ipsum dolor sit amet.</h3>
 		                    <p>
 		                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 		                    </p>
@@ -87,10 +87,10 @@
 		                    <div class="feature feature-2 filled text-center">
 		                        <div class="text-center">
 		                            <i class="ti-layers icon-sm"></i>
-		                            <h5 class="uppercase">Modular Design</h5>
+		                            <h5 class="uppercase">Feature One</h5>
 		                        </div>
 		                        <p>
-		                            With a plethora of purpose-built content blocks, colors and fonts, Foundry presents a mind-boggling number of combinations. Test drive the builder now!
+		                            This is info about the first thing you want to feature! This is info about the first thing you want to feature! This is info about the first thing you want to feature! 
 		                        </p>
 		                    </div>
 		                    
@@ -99,10 +99,10 @@
 		                    <div class="feature feature-2 filled text-center">
 		                        <div class="text-center">
 		                            <i class="ti-gallery icon-sm"></i>
-		                            <h5 class="uppercase">Silky Parallax</h5>
+		                            <h5 class="uppercase">Feature Two</h5>
 		                        </div>
 		                        <p>
-		                            We've built a buttery smooth parallax scrolling experience with a heavy focus on performance. Extensively tested across a range of browser and mouse types.
+		                            This is info about the second thing you want to feature! This is info about the second thing you want to feature! This is info about the second thing you want to feature! 
 		                        </p>
 		                    </div>
 		                    
@@ -111,10 +111,10 @@
 		                    <div class="feature feature-2 filled text-center">
 		                        <div class="text-center">
 		                            <i class="ti-package icon-sm"></i>
-		                            <h5 class="uppercase">Unique Concepts</h5>
+		                            <h5 class="uppercase">Feature Three</h5>
 		                        </div>
 		                        <p>
-		                            10 Fresh and unique concepts included out of the box. From portfolio to property showcase, Foundry's adaptable look is perfect for your next project.
+		                            This is info about the third thing you want to feature! This is info about the third thing you want to feature! This is info about the third thing you want to feature!
 		                        </p>
 		                    </div>
 		                    
@@ -123,53 +123,54 @@
 		            
 		        </div>
 		        
-		    </section><section>
+		    </section><section class='bg-primary'>
 		        <div class="container">
 		            <div class="row">
 		                <div class="col-sm-12 text-center">
-		                    <h4 class="uppercase mb16">Brief Plans</h4>
+		                    <h4 class="uppercase mb16">Training Schedule</h4>
 		                    <p class="lead mb64">
-		                        Perfect for uncomplicated pricing options. Alter appearance with '.boxed' and '.emphasis' classes
+		                        Come to as many classes as you want, all included.
 		                    </p>
 		                </div>
 		            </div>
 		            
 		            <div class="row">
 		                <div class="col-md-4 col-sm-6">
-		                    <div class="pricing-table pt-1 text-center">
-		                        <h5 class="uppercase">Starter</h5>
-		                        <span class="price">$12</span>
-		                        <p class="lead">Per Month</p>
-		                        <a class="btn btn-filled btn-lg" href="#">Get Started</a>
+		                    <div class="pricing-table pt-1 text-center emphasis" style='background-color: rgba(0,0,0,0.2)'>
+		                        <h5 class="uppercase">Tuesday</h5>
+		                        <p class="lead">6:15am</p>
+		                        <h4 class="uppercase mb16">Fitbox</h4>
+		                        <p class="lead">6:15pm</p>
+		                        <h4 class="uppercase mb16">Fast10</h4>
 		                        <p>
-		                            30 Day Free Trial
-		                            <br> No Credit Card Required
+		                            Unlimited access to classes
+		                            <br> 45 minute long sessions
 		                        </p>
 		                    </div>
 		                    
 		                </div>
 		                <div class="col-md-4 col-sm-6">
-		                    <div class="pricing-table pt-1 text-center boxed">
-		                        <h5 class="uppercase">Starter</h5>
-		                        <span class="price">$12</span>
-		                        <p class="lead">Per Month</p>
-		                        <a class="btn btn-filled btn-lg" href="#">Get Started</a>
+		                    <div class="pricing-table pt-1 text-center emphasis" style='background-color: rgba(0,0,0,0.2); height: 384px;'>
+		                        <h5 class="uppercase">Wednesday</h5>
+		                        <p class="lead">6:15pm</p>
+		                        <h4 class="uppercase mb16">Strength</h4>
 		                        <p>
-		                            30 Day Free Trial
-		                            <br> No Credit Card Required
+		                            Unlimited access to classes
+		                            <br> 45 minute long sessions
 		                        </p>
 		                    </div>
 		                    
 		                </div>
 		                <div class="col-md-4 col-sm-6">
-		                    <div class="pricing-table pt-1 text-center emphasis">
-		                        <h5 class="uppercase">Starter</h5>
-		                        <span class="price">$12</span>
-		                        <p class="lead">Per Month</p>
-		                        <a class="btn btn-white btn-lg" href="#">Get Started</a>
+		                    <div class="pricing-table pt-1 text-center emphasis" style='background-color: rgba(0,0,0,0.2)'>
+		                        <h5 class="uppercase">Thursday</h5>
+		                        <p class="lead">6:15am</p>
+		                        <h4 class="uppercase mb16">Fast10</h4>
+		                        <p class="lead">6:15pm</p>
+		                        <h4 class="uppercase mb16">Fitbox</h4>
 		                        <p>
-		                            30 Day Free Trial
-		                            <br> No Credit Card Required
+		                            Unlimited access to classes
+		                            <br> 45 minute long sessions
 		                        </p>
 		                    </div>
 		                    
@@ -178,18 +179,18 @@
 		            
 		        </div>
 		        
-		    </section><section>
+		    </section><section class=''>
 		        <div class="container">
 		            <div class="row v-align-children">
 		                <div class="col-sm-5">
-		                    <h3>Join us for a day of
-		                        <br> ideas &amp; discussion.</h3>
+		                    <h3>All for a 
+		                        <br> great price.</h3>
 		                    <p class="lead mb40">
 		                        Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
 		                    </p>
 		                    <div class="overflow-hidden mb32 mb-xs-24">
 		                        <i class="ti-package icon icon-sm pull-left"></i>
-		                        <h6 class="uppercase mb0 inline-block p32">All Inclusive Package</h6>
+		                        <h6 class="uppercase mb0 inline-block p32"></h6>
 		                    </div>
 		                    <div class="overflow-hidden mb32 mb-xs-24">
 		                        <i class="ti-medall-alt icon icon-sm pull-left"></i>
@@ -198,13 +199,14 @@
 		                </div>
 		                <div class="col-md-4 col-sm-6">
 		                    <div class="pricing-table pt-1 text-center emphasis">
-		                        <h5 class="uppercase">Admit One</h5>
-		                        <span class="price">$89</span>
-		                        <p class="lead">Per Ticket</p>
-		                        <a class="btn btn-white btn-lg" href="#">Purchase Ticket</a>
+		                        <h5 class="uppercase">From as little as</h5>
+		                        <span class="price">$20</span>
+		                        <p class="lead">Per Week</p>
+		                        <p>when combined with weekly personal training sessions with Elite Four </p>
+		                        <a class="btn btn-white btn-lg" href="#">I'm In!</a>
 		                        <p>
 		                            <a href="#">Contact Us for</a>
-		                            <br> large ticket volumes
+		                            <br> more information
 		                        </p>
 		                    </div>
 		                    
@@ -217,11 +219,11 @@
 		        <div class="container">
 		            <div class="row">
 		                <div class="col-sm-12 text-center">
-		                    <h2 class="mb8">Start A Foundry Project</h2>
+		                    <h2 class="mb8">Change your life today</h2>
 		                    <p class="lead mb40 mb-xs-24">
-		                        Variant Page Builder, Over 100 Page Templates - The choice is clear.
+		                        Get started on your dream body in as little as six weeks.
 		                    </p>
-		                    <a class="btn btn-filled btn-lg mb0" href="#purchase-template">Purchase Foundry</a>
+		                    <a class="btn btn-filled btn-lg mb0" href="#purchase-template">Join the NLC Today!</a>
 		                </div>
 		            </div>
 		            
@@ -231,51 +233,15 @@
 		        <div class="container">
 		            <div class="row">
 		                <div class="col-sm-10 col-sm-offset-1 text-center">
-		                    <h3 class="uppercase color-primary mb40 mb-xs-24">A Place To Call Home</h3>
+		                    <h3 class="uppercase color-primary mb40 mb-xs-24">Get in touch!</h3>
 		                    <p class="lead">
 		                        At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio.
 		                    </p>
 		                </div>
 		            </div>
-		            
-		        </div>
-		        
-		    </section></div>
-		
-				
-	<script src="js/jquery.min.js"></script>
-        <script src="js/bootstrap.min.js"></script>
-        <script src="js/flexslider.min.js"></script>
-        <script src="js/lightbox.min.js"></script>
-        <script src="js/masonry.min.js"></script>
-        <script src="js/flickr.js"></script>
-        <script src="js/twitterfetcher.min.js"></script>
-        <script src="js/spectragram.min.js"></script>
-        <script src="js/ytplayer.min.js"></script>
-        <script src="js/countdown.min.js"></script>
-        <script src="js/smooth-scroll.min.js"></script>
-        <script src="js/parallax.js"></script>
-        <script src="js/scripts.js"></script>
-    </body>
-</html>
-				
-		    <section id='contact'>
-		        <div class="container">
-		            <div class="row">
-		                <div class="col-sm-6 col-md-5">
-		                    <h4 class="uppercase">Get In Touch</h4>
-		                    <p>
-		                        If you feel like finding out a bit more about what we do at Elite Four Fitness fill in your name, email address and a brief message about how we could help you and we will get back to you ASAP to book in a free consultation.
-		                    </p>
-		                    <hr>
-		                    <p>Hayden Walker <br style='display: inline-block;'>Snap Fitness Victoria Point <br style='display: inline-block;'>Town Centre Shopping Centre, Victoria Point <br style='display: inline-block;'>Queensland 4165 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br></p>
-		                    <hr>
-		                    <p>
-		                        <strong>E:</strong>&nbsp;hayden@elitefourfitness.com&nbsp;<br>
-		                        <strong>P:</strong> 0422 397 266 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br>
-		                    </p>
-		                </div>
-		                <div class="col-sm-6 col-md-5 col-md-offset-1">
+		             <div class="row">
+		     
+		                <div class="col-sm-6 col-md-6 col-md-offset-3 col-sm-offset-3">
 		                    <form class="form-email" data-success="Thanks for your submission, we will be in touch shortly." data-error="Please fill all fields correctly.">
 		                        <input type="text" class="validate-required" name="name" placeholder="Your Name">
 		                        <input type="text" class="validate-required" name="phone" placeholder="Phone Number">
@@ -288,7 +254,8 @@
 		            
 		        </div>
 		        
-		    </section>
-<? 
+		    </section></div>
+				
+		    <?
 	include('engine/footer.php');
 ?>
