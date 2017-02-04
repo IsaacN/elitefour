@@ -94,13 +94,13 @@
 		            <div class="row">
 		                <div class="col-md-4 col-sm-6 col-md-offset-2" >
 		                    <div class="pricing-table pt-2 boxed text-center">
-		                        <h5 class="uppercase">Next Level Challenge</h5>
-		                        <span class="price">$35</span>
+		                        <h5 class="uppercase">Semi-Private Training</h5>
+		                        <span class="price">$40</span>
 		                        <p class="lead">Per Week</p>
 		                        <a class="btn btn-filled btn-lg" href="#contact">Get Started</a>
 		                        <ul>
 		                            <li>
-		                                <strong>Five Sessions</strong> per week
+		                                <strong>Three Sessions</strong> per week
 		                            </li>
 		                            <li>
 		                                <strong>Unlimited</strong> Support
@@ -117,44 +117,68 @@
 		                            <li>
 		                                Elite Four <strong>T-Shirt</strong>
 		                            </li>
-		                            <li>
-		                                Professional After <strong>Photos</strong>
-		                            </li>
+		                     
 		                        </ul>
 		                    </div>
 		                </div>
-		                <div class="col-md-4 col-sm-6 " >
-		                    <div class="pricing-table pt-2 emphasis text-center">
-		                        <h5 class="uppercase">Challenge + PT Session</h5>
-		                        <span class="price">$60</span>
+		                <div class="col-md-4 col-sm-6 col-md-offset-2" >
+		                    <div class="pricing-table pt-2 boxed text-center">
+		                        <h5 class="uppercase">12 Week Muscle Gain</h5>
+		                        <span class="price">$40</span>
 		                        <p class="lead">Per Week</p>
-		                        <a class="btn btn-white btn-lg" href="#contact">Get Started</a>
+		                        <a class="btn btn-filled btn-lg" href="#contact">Get Started</a>
 		                        <ul>
 		                            <li>
-		                                <strong>All Benefits</strong> of Personal Training
+		                                <strong>Three Sessions</strong> per week
 		                            </li>
 		                            <li>
-		                                <strong>All Benefits</strong> of Challenge
+		                                <strong>Unlimited</strong> Support
 		                            </li>
 		                            <li>
-		                                <strong>Amazing Value</strong>
+		                                <strong>Nutrition</strong> Guidance
 		                            </li>
 		                            <li>
-		                                &nbsp;
+		                                <strong>Exercise Programming</strong>
 		                            </li>
 		                            <li>
-		                                &nbsp;
+		                                Starter Pack
 		                            </li>
 		                            <li>
-		                                &nbsp;
+		                                Elite Four <strong>T-Shirt</strong>
 		                            </li>
-		                            <li>
-		                                &nbsp;
-		                            </li>
-		                 
+		                     
 		                        </ul>
 		                    </div>
 		                </div>
+		                <div class="col-md-4 col-sm-6 col-md-offset-2" >
+		                    <div class="pricing-table pt-2 boxed text-center">
+		                        <h5 class="uppercase">12 Week Blast
+		                        <p class="lead">Per Week</p>
+		                        <a class="btn btn-filled btn-lg" href="#contact">Get Started</a>
+		                        <ul>
+		                            <li>
+		                                <strong>Three Sessions</strong> per week
+		                            </li>
+		                            <li>
+		                                <strong>Unlimited</strong> Support
+		                            </li>
+		                            <li>
+		                                <strong>Nutrition</strong> Guidance
+		                            </li>
+		                            <li>
+		                                <strong>Exercise Programming</strong>
+		                            </li>
+		                            <li>
+		                                Starter Pack
+		                            </li>
+		                            <li>
+		                                Elite Four <strong>T-Shirt</strong>
+		                            </li>
+		                     
+		                        </ul>
+		                    </div>
+		                </div>
+		                
 		            </div>
 		            
 		        </div>
@@ -169,7 +193,7 @@
 		                        If you feel like finding out a bit more about what we do at Elite Four Fitness fill in your name, email address and a brief message about how we could help you and we will get back to you ASAP to book in a free consultation.
 		                    </p>
 		                    <hr>
-		                    <p>Hayden Walker <br style='display: inline-block;'>Snap Fitness Victoria Point <br style='display: inline-block;'>Town Centre Shopping Centre, Victoria Point <br style='display: inline-block;'>Queensland 4165 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br></p>
+		                    <p>Hayden Walker <br style='display: inline-block;'>Snap Fitness Cleveland <br style='display: inline-block;'>16 Weippen Street, Cleveland <br style='display: inline-block;'>Queensland 4163 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br></p>
 		                    <hr>
 		                    <p>
 		                        <strong>E:</strong>&nbsp;hayden@elitefourfitness.com&nbsp;<br>
