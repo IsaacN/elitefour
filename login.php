@@ -3,7 +3,7 @@
 	include('engine/head.php');
 	include('engine/nav.php');
 ?>
-		<iframe width="100%" height="800px" frameBorder="0" style="display:block;" src="https://www.portal.ptdistinction.com/ptd_cl_iframe.php?apk=E2k7ZEYqYf194323" title="Online Personal Training Application">Online Personal Training Application</iframe><div style="text-align:center; font-size:10px; margin-bottom:10px;"><a href="https://www.ptdistinction.com" target="_blank">Online Personal Training Application</a></div>
+		<iframe width="100%" height="800px" frameBorder="0" style="display:block;" src="https://www.portal.ptdistinction.com/ptd_cl_iframe.php?apk=E2k7ZEYqYf194323" title="Online Personal Training Application">Online Personal Training Application</iframe><div style="text-align:center; font-size:10px; margin-bottom:10px;"></div>
 		    <section id='contact'>
 		        <div class="container">
 		            <div class="row">
