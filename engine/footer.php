@@ -2,7 +2,7 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-sm-4">
-							<a href="#"><div class="vnu"><img class="image-xxs fade-half" alt="Pic" src="img/e4f-logo-compressed-long.png"></div></a>
+							<a href="#"><div class="vnu"><img class="image-small fade-half" alt="Pic" src="img/e4f-logo-compressed-long.png" style="margin-top: -30px;"></div></a>
 						</div>
 					
 						<div class="col-sm-4 text-center">

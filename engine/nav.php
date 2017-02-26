@@ -5,7 +5,7 @@
 		            <div class="module left">
 		                <a href="/">
 		                    <img class="logo logo-light" alt="Elite Four" src="img/logo-light.png">
-		                    <img class="logo logo-dark" alt="Elite Four" src="img/e4f-logo-compressed-long.png">
+		                    <img class="logo logo-dark" alt="Elite Four" src="img/e4f-logo-compressed.png">
 		                </a>
 		            </div>
 		            <div class="module widget-handle mobile-toggle right visible-sm visible-xs">
@@ -16,6 +16,9 @@
 		                    <ul class="menu">
 		                    	<li>
 		                            <a class='' href="/">Home</a>
+		                        </li>
+		                        <li>
+		                            <a class='' href="login.php">Client Login</a>
 		                        </li>
 		                        <li>
 		                            <a class='btn btn-filled btn-sm' id='bookBtn'style='opacity: 1;' href="book.php">Book Now!</a>
