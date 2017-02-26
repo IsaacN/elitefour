@@ -121,7 +121,7 @@
 		                    </div><div class="feature feature-1 boxed">
 		                        <div class="text-center">
 		                            <img class="gridIcons" id='cardioImg' src='img/icons/runner.png'>
-		                            <h5 class="uppercase">Cardio Fitness</h5>
+		                            <h5 class="uppercase">Functional Training</h5>
 		                        </div>
 		                        <p>
 		                        <!-- Stuff about cardio fitness here! -->
