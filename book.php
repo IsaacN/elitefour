@@ -19,7 +19,7 @@
 		                <div class="col-md-4 col-sm-6">
 		                    <div class="pricing-table boxed pt-2 text-center">
 		                        <h5 class="uppercase">1 Personal Training Session</h5>
-		                        <span class="price">$40</span>
+		                        <span class="price">$45</span>
 		                        <p class="lead">Per Week</p>
 		                        <a class="btn btn-filled btn-lg" href="#contact">Get Started</a>
 		                        <ul>
@@ -42,7 +42,7 @@
 		                <div class="col-md-4 col-sm-6">
 		                    <div class="pricing-table pt-2 boxed text-center">
 		                        <h5 class="uppercase">2 Personal Training Sessions</h5>
-		                        <span class="price">$70</span>
+		                        <span class="price">$75</span>
 		                        <p class="lead">Per Week</p>
 		                        <a class="btn btn-filled btn-lg" href="#contact">Get Started</a>
 		                        <ul>
@@ -64,13 +64,13 @@
 		                </div>
 		                <div class="col-md-4 col-sm-6">
 		                    <div class="pricing-table pt-2 boxed text-center">
-		                        <h5 class="uppercase">3 Personal Training Sessions</h5>
-		                        <span class="price">$90</span>
+		                        <h5 class="uppercase">Unlimited Personal Training Sessions</h5>
+		                        <span class="price">$80</span>
 		                        <p class="lead">Per Week</p>
 		                        <a class="btn btn-filled btn-lg" href="#contact">Get Started</a>
 		                        <ul>
 		                            <li>
-		                                <strong>Unlimited</strong> Support
+		                                <strong>Unlimited</strong> Sessions!
 		                            </li>
 		                            <li>
 		                                <strong>Nutrition</strong> Guidance
@@ -88,7 +88,8 @@
 		            </div>
 		            
 		        </div>
-		        <div class="row">
+		        <div class='container'>
+		        <div class="row" style='margin-top: 15px;'>
 		                <div class="col-md-4 col-sm-6">
 		                    <div class="pricing-table boxed pt-2 text-center">
 		                        <h5 class="uppercase">Semi-Private Training</h5>
@@ -105,9 +106,7 @@
 		                            <li>
 		                                <strong>Nutrition</strong> Guidance
 		                            </li>
-		                            <li>
-		                                <strong>Exercise Programming</strong>
-		                            </li>
+		                            
 		                            <li>
 		                                Fitness <strong>Tracking</strong> and Measurements
 		                            </li>
@@ -118,14 +117,12 @@
 		                <div class="col-md-4 col-sm-6">
 		                    <div class="pricing-table pt-2 boxed text-center">
 		                        <h5 class="uppercase">12 Week Muscle Gain</h5>
-		                        <span class="price">$40</span>
-		                        <p class="lead">Per Week</p>
+		                        <span class="price">$120</span>
+		                        <p class="lead">Total, All-Inclusive</p>
 		                        <a class="btn btn-filled btn-lg" href="#contact">Get Started</a>
 		                        <ul>
 
-		                        	<li>
-		                                <strong>Three Sessions</strong> per week
-		                            </li>
+		                        	
 		                            <li>
 		                                <strong>Unlimited</strong> Support
 		                            </li>
@@ -144,15 +141,13 @@
 		                </div>
 		                <div class="col-md-4 col-sm-6">
 		                    <div class="pricing-table pt-2 boxed text-center">
-		                        <h5 class="uppercase">3 Personal Training Sessions</h5>
-		                        <span class="price">$90</span>
-		                        <p class="lead">Per Week</p>
+		                        <h5 class="uppercase">12 Week Fat Blast</h5>
+		                        <span class="price">$120</span>
+		                        <p class="lead">Total, All-Inclusive</p>
 		                        <a class="btn btn-filled btn-lg" href="#contact">Get Started</a>
 		                        <ul>
 		                        	
-		                        	<li>
-		                                <strong>Three Sessions</strong> per week
-		                            </li>
+		                      
 		                            <li>
 		                                <strong>Unlimited</strong> Support
 		                            </li>
@@ -170,6 +165,7 @@
 		                    
 		                </div>
 		            </div>
+		          </div>
 		            
 		        </div>
 		        
