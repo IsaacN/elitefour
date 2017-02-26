@@ -18,6 +18,9 @@
 		                            <a class='' href="/">Home</a>
 		                        </li>
 		                        <li>
+		                            <a class='' href="login.php">Client Login</a>
+		                        </li>
+		                        <li>
 		                            <a class='btn btn-filled btn-sm' id='bookBtn'style='opacity: 1;' href="book.php">Book Now!</a>
 		                        </li>
 		                        <!-- <li class="has-dropdown">
