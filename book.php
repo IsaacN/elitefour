@@ -42,7 +42,7 @@
 		                <div class="col-md-4 col-sm-6">
 		                    <div class="pricing-table pt-2 boxed text-center">
 		                        <h5 class="uppercase">2 Personal Training Sessions</h5>
-		                        <span class="price">$75</span>
+		                        <span class="price">$80</span>
 		                        <p class="lead">Per Week</p>
 		                        <a class="btn btn-filled btn-lg" href="#contact">Get Started</a>
 		                        <ul>
@@ -65,7 +65,7 @@
 		                <div class="col-md-4 col-sm-6">
 		                    <div class="pricing-table pt-2 boxed text-center">
 		                        <h5 class="uppercase">Unlimited Personal Training Sessions</h5>
-		                        <span class="price">$80</span>
+		                        <span class="price">$90</span>
 		                        <p class="lead">Per Week</p>
 		                        <a class="btn btn-filled btn-lg" href="#contact">Get Started</a>
 		                        <ul>
